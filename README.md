@@ -14,3 +14,7 @@ This project is an Arduino-based smart room automation system.
 - Embedded C
 - Sensors (LDR, DHT11)
 - LCD display
+- 
+# Demo Video
+Watch the project demonstration here:
+https://youtu.be/Io34pPm8gUk?si=0YXNFRUncqVhDYrK
